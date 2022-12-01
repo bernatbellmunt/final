@@ -9,6 +9,6 @@ I have chosen to study the colors that are used in pieces of art, and in order t
 This project combines many things I have learned throught my experience and is shown in an interactive app created with streamlit.
 There you can select your artist or time periods and explore the different palettes used by the filter the user introduces.
 
-This is the link to streamlit: https://bernatbellmunt-final-project-ih-main-xyy594.streamlit.app/
+This is the link to streamlit: https://bernatbellmunt-final-main-pw6e56.streamlit.app/
 
 Hope you like it and is useful!
